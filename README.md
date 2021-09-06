@@ -6,5 +6,5 @@ To compile:
 1. cd src
 2. make
   
-To run (with sample test files):  
+To run(with sample test files):  
 1. ./scanner ../test/test.c
