@@ -7,4 +7,4 @@ To compile:
 2. make
   
 To run (with sample test files):  
-1. ./AcDc ../test/sample1.ac output1
+1. ./scanner ../test/test.c
