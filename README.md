@@ -11,7 +11,7 @@ To run:
 
 # Example
 A C-- example program is shown below:
-```c:
+```c
 int func(int a, int b)
 {
 	int main;
