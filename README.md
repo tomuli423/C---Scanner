@@ -42,4 +42,23 @@ After running scanner as follow:
  > ./scanner ./test.c
 
 Comments will be printed, and legal tokens with frequency of each token will also be printed. Output result will looks like the following:  
+```
+/* 1: this is just a sample */
+/* 2: this is a 3-line
+	comment
+	*/
+/* 3: this is /* the end ***/
 
+Frequency of identifiers:
+a        3
+b        2
+c        3
+d        4
+e        1
+f        2
+func     2
+g        2
+main     3
+read     1
+write    1
+```
