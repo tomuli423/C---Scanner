@@ -10,7 +10,7 @@ To run:
 1. ./scanner <source_file>
 
 # Example
-A C-- example program is shown below:
+A C-- example program test.c is shown below:
 ```c
 int func(int a, int b)
 {
@@ -38,4 +38,5 @@ int main()
     return 0;
 }
 ```
-After
+After running scanner as follow
+> ./scanner ./test.c 
