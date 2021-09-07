@@ -39,4 +39,7 @@ int main()
 }
 ```
 After running scanner as follow:  
- *./scanner ./test.c*
+ > ./scanner ./test.c
+
+Comments will be printed, and legal tokens with frequency of each token will also be printed. Output result will looks like the following:  
+
