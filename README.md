@@ -38,5 +38,5 @@ int main()
     return 0;
 }
 ```
-After running scanner as follow
+After running scanner as follow:  
  *./scanner ./test.c*
