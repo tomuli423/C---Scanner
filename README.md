@@ -1,11 +1,21 @@
 # C-- program syntax recognizer and semantic checker
- A project assignment of Compiler Technology of Programming Languages course in NTU. C-- (pronounced C minus minus) is a C-like programming language. More datailed specification of [C--](https://drive.google.com/file/d/1mqIG6JDIcNYxValdV83zUXzc0i7tExel/view?usp=sharing). 
+A project assignment of Compiler Technology of Programming Languages course in NTU. C-- (pronounced C minus minus) is a C-like programming language. More datailed specification of [C--](https://drive.google.com/file/d/1mqIG6JDIcNYxValdV83zUXzc0i7tExel/view?usp=sharing). 
+
+In this repository, following files can be found:
+
+|     file name     |                     discription                      |
+| :---------------: | :--------------------------------------------------: |
+|    src/lexer.l    | lex program that recognizes lexical patterns in text |
+| src/symboltable.c |  contains functions about symbol table manipulation  |
+|   src/header.h    |           contains symbol table structure            |
+|   src/Makefile    |                                                      |
+|       test/       |        directory containing some sample tests        |
 
 # Usage
 To compile:
 1. cd src
 2. make
-  
+
 To run:  
 1. ./scanner <source_file>
 
