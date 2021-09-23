@@ -6,8 +6,8 @@ In this repository, following files can be found:
 |     file name     |                     discription                      |
 | :---------------: | :--------------------------------------------------: |
 |    src/lexer.l    | lex program that recognizes lexical patterns in text |
-| src/symboltable.c |  contains functions about symbol table manipulation  |
 |   src/header.h    |           contains symbol table structure            |
+| src/symboltable.c |  contains functions about symbol table manipulation  |
 |   src/Makefile    |                                                      |
 |       test/       |        directory containing some sample tests        |
 
