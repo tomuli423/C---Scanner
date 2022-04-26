@@ -51,7 +51,7 @@ int main()
 After running scanner as follow:  
  > ./scanner ./test.c
 
-Comments will be printed, and legal tokens with frequency of each token will also be printed. Output result will looks like the following:  
+Legal tokens with frequency of each token will be printed, with comments listed above. Output result will look like the following:  
 ```
 /* 1: this is just a sample */
 /* 2: this is a 3-line
